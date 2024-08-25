@@ -1,0 +1,1 @@
+A simple and responsive Random Password Generator built using HTML, CSS, and JavaScript. This tool generates secure and random passwords based on user-selected criteria, such as length and inclusion of uppercase letters, numbers, and special characters.
